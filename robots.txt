@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://minianil.github.io/sitemap.html.gz
+Sitemap: https://minianil.github.io/app/sitemap.html.gz
+Sitemap: https://minianil.github.io/assets/sitemap.html.gz
+Sitemap: https://minianil.github.io/css/sitemap.html.gz
+Sitemap: https://minianil.github.io/includes/sitemap.html.gz
+Sitemap: https://minianil.github.io/item/sitemap.html.gz
+Sitemap: https://minianil.github.io/src/sitemap.html.gz
